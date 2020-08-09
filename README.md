@@ -1,6 +1,8 @@
 # neumorphic_example
 
-A new Flutter project.
+An example neumorphic design.
+
+[80bits](https://80bits.com)
 
 ## Getting Started
 
